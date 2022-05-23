@@ -1,2 +1,3 @@
-# Computational-Linguistics
- Coursework for LING 185A at UCLA
+
+# Computational Linguistics
+This repo contains the coursework for UCLA's LING 185A course taught by Tim Hunter in Winter 2020. 
